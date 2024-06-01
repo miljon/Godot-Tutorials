@@ -20,6 +20,11 @@ func _physics_process(delta):
 	move_and_slide()
 ```
 
+Result:
+
+<img src="https://github.com/miljon/Godot-Tutorials/assets/8971419/520d4dc0-735c-41c0-abfa-ed4f72586f77" width="50%" height="50%">
+
+
 
 ---
 Issues:
